@@ -1,1 +1,3 @@
-"# generator-yeoman-practice" 
+generator-yeoman-practice
+
+My repo of practice Yeoman
